@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 23657190270834214}
   - component: {fileID: 135969414935096926}
   - component: {fileID: 54084148602229758}
-  - component: {fileID: 114188188147238796}
+  - component: {fileID: 114769731423809678}
   m_Layer: 0
   m_Name: hawker
   m_TagString: Untagged
@@ -101,7 +101,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &114188188147238796
+--- !u!114 &114769731423809678
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
