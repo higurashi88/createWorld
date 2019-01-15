@@ -21,7 +21,7 @@ public class cityCapa : MonoBehaviour {
 	void Update () {
         if (0 < popu)
         {
-            Instantiate(hawker);
+            Instantiate(hawker,this.transform.position,Quaternion.identity);
             popu--;
         } 
 	}
