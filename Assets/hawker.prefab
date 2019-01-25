@@ -25,8 +25,8 @@ GameObject:
   - component: {fileID: 114436591838281618}
   - component: {fileID: 54952345901233016}
   m_Layer: 0
-  m_Name: hawker 1
-  m_TagString: Untagged
+  m_Name: hawker
+  m_TagString: NPC
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
